@@ -1,0 +1,27 @@
+{
+  "name": "koa-stylish",
+  "version": "0.0.1",
+  "description": "Stylus middleware for koa that doesn't write files to disk.",
+  "homepage": "https://github.com/lusever/koa-stylish",
+  "main": "index.js",
+  "keywords": [
+    "koa",
+    "stylus"
+  ],
+  "author": {
+    "name": "Pavel Kornilov",
+    "email": "lusever@lusever.com",
+    "url": "http://lusever.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lusever/koa-stylish.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lusever/koa-stylish/issues"
+  },
+  "peerDependencies": {
+    "stylish": "^0.5.0"
+  }
+}
