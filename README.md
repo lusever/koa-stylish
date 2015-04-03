@@ -1,6 +1,6 @@
 # koa-stylish
 
-Stylus middleware for Koa. Koa wrapper for [node-stylush](https://github.com/marcello3d/node-stylish).
+Stylus middleware for Koa. Koa wrapper for [node-stylish](https://github.com/marcello3d/node-stylish).
 
 ## Installation
 
