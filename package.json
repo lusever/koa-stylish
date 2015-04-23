@@ -1,6 +1,6 @@
 {
   "name": "koa-stylish",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Stylus middleware for koa that doesn't write files to disk.",
   "homepage": "https://github.com/lusever/koa-stylish",
   "main": "index.js",
