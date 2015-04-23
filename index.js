@@ -6,7 +6,7 @@ module.exports = function(options) {
   function middleware(app) {
     return function(callback) {
       var response = {
-        header: app.set.bind(app),
+        setHeader: app.set.bind(app),
         send: function(cssBody) {
           app.body = cssBody;
           callback(null, true);
